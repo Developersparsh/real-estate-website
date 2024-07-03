@@ -3,7 +3,6 @@
 
 ---
 
-# real-estate-website
 
 ## Project Overview
 
