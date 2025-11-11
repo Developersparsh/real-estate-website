@@ -9,21 +9,14 @@
 Homiyz is a modern real estate platform built using the MERN stack. It offers users the ability to browse, list, and manage property listings with an integrated authentication system. The project incorporates user authentication  and Google authentication using Firebase.
 
 ## Authors
-   **Training project (Batch-1)**
+   **College Project**
 
 - **Sparsh Dixit**
   - Course: BCA 
   - Semester: 4th
   - Section : B
-  - Roll No:47
+  - Roll No: 47
   - Email: sparshd02@gmail.com
-  
-- **Shreya Srivastava**
-   - Course: BCA
-   - Semester: 4th
-   - Section : B
-  - Roll No:44
-  - Email: shreya.21.srivastava.12@gmail.com
 
 ## Features
 
